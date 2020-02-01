@@ -1,6 +1,9 @@
 # PhoneCheck v0.1
-## Author: https://gitlab.com/satanin2020
-## It's First Work!
+## Author: https://github.com/satanin2020
+
+Telegram:@maninmiddle
+VK:vk.com/maninmiddle
+
 
 
 
