@@ -9,7 +9,7 @@ VK:vk.com/maninmiddle
 
 
 
-![tc](https://i.imgur.com/hw18xYV.png)
+![tc](https://i.imgur.com/fTsY3Dr.png)
 
 ## disclaimer:
 PhoneCheck, designed to test the system for security, the author is not responsible for the damage.
@@ -19,7 +19,7 @@ PhoneCheck, designed to test the system for security, the author is not responsi
 ```
 git clone https://github.com/satanin2020/phonecheck
 cd phonecheck
-bash phonecheck.sh
+bash phonecheck
 ```
 
 
