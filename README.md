@@ -1,4 +1,4 @@
-# PhoneCheck v0.1
+# PhoneCheck v0.2
 ## Author: https://github.com/satanin2020
 
 Telegram:@maninmiddle
