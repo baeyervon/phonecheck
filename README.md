@@ -1,8 +1,6 @@
 # PhoneCheck v0.2
-## Author: https://github.com/satanin2020
+## Author: https://github.com/mynameislolo
 
-Telegram:@maninmiddle
-VK:vk.com/maninmiddle
 
 
 
