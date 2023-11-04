@@ -1,5 +1,5 @@
 # PhoneCheck v0.2
-## Author: https://github.com/mynameislolo
+## Author: Baeyer
 
 
 
